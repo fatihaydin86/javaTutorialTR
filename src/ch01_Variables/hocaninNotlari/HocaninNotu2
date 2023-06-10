@@ -1,0 +1,32 @@
+package ch01_Variables;
+
+public class C01_Variables {
+
+    //TASK  : Isminizi
+    // yasinizi ve
+    // ogrenci olup olmadiginizi uygun data type lara assign edip
+    // konsolda print edin
+    //note: assign (atama) = (esittir) atama operatoru ile yapilir
+
+    public static void main(String[] args) {
+        String      isim     =     "zafer"     ;
+        //once data type yazilir String int double boolean
+        //sonra variable name yazilir name isim yas. // identifier ile variable name ayi seyi ifade eder
+        //atama operatoru ile = deger atamasi yapilir
+        //data tipine gore deger atamasi yapildi
+        //son vurus olarak ; ile bitirildi
+
+        int yas = 33  ;
+
+        boolean ogrenciMi = false  ;
+
+        System.out.println(isim+ " "+yas+" "+ogrenciMi);
+
+
+
+
+
+
+    }
+
+}
