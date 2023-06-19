@@ -1,10 +1,10 @@
-package ch10_MethodCreation;
+package ch11_Debugger;
 
 import java.util.Scanner;
 
 import static ch10_MethodCreation.C05_CRUD.cikis;
 
-public class C08_AtmProject {
+public class C02_Debugger {
     //to do: buradaki methodlari ayri bir class'a alin, switch case'leri ayri bir class'a alin ve buradan run edin
 
     static Scanner input = new Scanner(System.in);
